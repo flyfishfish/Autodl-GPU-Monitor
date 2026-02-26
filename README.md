@@ -6,3 +6,5 @@
 2，配置时间，单位为秒，每次间隔时间到则查看空闲GPU
 #
 3.安装所有依赖 pip install requests hashlib logging time
+#
+4.控制台输出当前状态，若有空闲，则小程序发送信息提醒
